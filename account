@@ -1,0 +1,5 @@
+INSERT INTO `account` (`role`, `user`, `pass`) VALUES ('1', '111', '222');
+INSERT INTO `account` (`role`, `user`, `pass`) VALUES ('1', '1234', '555 ');
+INSERT INTO `account` (`role`, `user`, `pass`) VALUES ('1', 'linhdang', '12345');
+INSERT INTO `account` (`role`, `user`, `pass`) VALUES ('1', 'nca', 'thicongtu2');
+INSERT INTO `account` (`role`, `user`, `pass`) VALUES ('1', 'tao', 'thich ');

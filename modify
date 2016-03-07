@@ -1,0 +1,4 @@
+INSERT INTO `modify` (`id`, `word`, `mean_reason`, `user`, `kind`) VALUES (1, 'hello', 'thich thi xoa', '111', 'R ');
+INSERT INTO `modify` (`id`, `word`, `mean_reason`, `user`, `kind`) VALUES (2, 'co', 'ghet', '111', 'R ');
+INSERT INTO `modify` (`id`, `word`, `mean_reason`, `user`, `kind`) VALUES (3, 'fuck', 'vfucking', '111', 'AC ');
+INSERT INTO `modify` (`id`, `word`, `mean_reason`, `user`, `kind`) VALUES (4, 'feel', 'This word has been delete because :thich do', '111', 'R ');
