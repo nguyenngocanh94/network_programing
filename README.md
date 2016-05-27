@@ -1,5 +1,14 @@
 # NETWORK PROGRAMING
-end at 12/8/15, f**k that teacher
-SQL file from somewhere not care
-built by GTK 3, Socket API, SQL api
-result just B
+end at 12/8/15
+
+SQL file from sourceforge.net LOL
+
+built by
+
++GTK 3 
+
++Socket API
+
++MySQL API
+
+the server 's using PULL server, the transfer scripts was not encrypted (LOL)
